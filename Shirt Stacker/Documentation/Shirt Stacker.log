@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  9 MAR 2014 17:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  9 MAR 2014 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -539,73 +539,144 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (5.2002pt too wide) in paragraph at lines 18--19
-\OT1/cmtt/m/n/12 github . com / orangeturtle739 / garmenttransporter / tree / m
-aster / Shirt %
- []
-
-
-Overfull \hbox (17.5502pt too wide) in paragraph at lines 23--24
+Overfull \hbox (23.7252pt too wide) in paragraph at lines 23--24
 \OT1/cmtt/m/n/12 com / orangeturtle739 / garmenttransporter / blob / master / S
-hirt % 20Folder /
+hirt % 20Stacker /
  []
-
-
-LaTeX Warning: Reference `schematic' on page 1 undefined on input line 26.
 
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (5.2002pt too wide) in paragraph at lines 32--33
+Overfull \hbox (6.84947pt too wide) in paragraph at lines 38--39
+\OT1/cmtt/m/n/12 product / B00CGR8WUU / ref = oh _ details _ o03 _ s00 _ i01 ? 
+ie = UTF8&psc = 1$[]\OT1/cmr/m/n/12 . I put
+ []
+
+
+Overfull \hbox (27.52917pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/12 the bear-ings on these shafts: []$\OT1/cmtt/m/n/12 http : / / w
+ww . amazon . com / gp / product / B002BBJ0CA /
+ []
+
+
+Overfull \hbox (5.2002pt too wide) in paragraph at lines 41--42
 \OT1/cmtt/m/n/12 github . com / orangeturtle739 / garmenttransporter / blob / m
 aster / Shirt %
  []
 
-
+[2]
 </Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Desig
-n/Images/Top View.pdf, id=43, 1686.3pt x 882.29625pt>
+n/Images/Top View.pdf, id=77, 1686.3pt x 882.29625pt>
 File: /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/
 Design/Images/Top View.pdf Graphic file (type pdf)
 
 <use /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
 esign/Images/Top View.pdf>
 Package pdftex.def Info: /Users/jacob/Documents/My Stuff/Arduino/garmenttranspo
-rter/Shirt Stacker/Design/Images/Top View.pdf used on input line 36.
+rter/Shirt Stacker/Design/Images/Top View.pdf used on input line 45.
 (pdftex.def)             Requested size: 390.0pt x 204.05473pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
- [2 </Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
-esign/Images/Top View.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
- (./Shirt Stacker.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
+
+</Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Desig
+n/Images/Cross Section.pdf, id=78, 1686.3pt x 882.29625pt>
+File: /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/
+Design/Images/Cross Section.pdf Graphic file (type pdf)
+
+<use /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
+esign/Images/Cross Section.pdf>
+Package pdftex.def Info: /Users/jacob/Documents/My Stuff/Arduino/garmenttranspo
+rter/Shirt Stacker/Design/Images/Cross Section.pdf used on input line 51.
+(pdftex.def)             Requested size: 390.0pt x 204.05473pt.
+
+</Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Desig
+n/Images/Spool.jpg, id=79, 4015.0pt x 3011.25pt>
+File: /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/
+Design/Images/Spool.jpg Graphic file (type jpg)
+
+<use /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
+esign/Images/Spool.jpg>
+Package pdftex.def Info: /Users/jacob/Documents/My Stuff/Arduino/garmenttranspo
+rter/Shirt Stacker/Design/Images/Spool.jpg used on input line 57.
+(pdftex.def)             Requested size: 390.0pt x 292.45848pt.
+
+</Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Desig
+n/Images/Pulleys.jpg, id=80, 1204.5pt x 1606.0pt>
+File: /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/
+Design/Images/Pulleys.jpg Graphic file (type jpg)
+
+<use /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
+esign/Images/Pulleys.jpg>
+Package pdftex.def Info: /Users/jacob/Documents/My Stuff/Arduino/garmenttranspo
+rter/Shirt Stacker/Design/Images/Pulleys.jpg used on input line 63.
+(pdftex.def)             Requested size: 390.0pt x 520.00789pt.
+
+</Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Desig
+n/Images/Linear Bearings.jpg, id=81, 4015.0pt x 3011.25pt>
+File: /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/
+Design/Images/Linear Bearings.jpg Graphic file (type jpg)
+
+<use /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
+esign/Images/Linear Bearings.jpg>
+Package pdftex.def Info: /Users/jacob/Documents/My Stuff/Arduino/garmenttranspo
+rter/Shirt Stacker/Design/Images/Linear Bearings.jpg used on input line 69.
+(pdftex.def)             Requested size: 390.0pt x 292.45848pt.
+
+</Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Desig
+n/Images/Nails.pdf, id=82, 90.3375pt x 90.3375pt>
+File: /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/
+Design/Images/Nails.pdf Graphic file (type pdf)
+
+<use /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
+esign/Images/Nails.pdf>
+Package pdftex.def Info: /Users/jacob/Documents/My Stuff/Arduino/garmenttranspo
+rter/Shirt Stacker/Design/Images/Nails.pdf used on input line 75.
+(pdftex.def)             Requested size: 390.0pt x 390.10602pt.
+
+</Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Desig
+n/Images/Dumping.pdf, id=83, 794.97pt x 722.7pt>
+File: /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/
+Design/Images/Dumping.pdf Graphic file (type pdf)
+
+<use /Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
+esign/Images/Dumping.pdf>
+Package pdftex.def Info: /Users/jacob/Documents/My Stuff/Arduino/garmenttranspo
+rter/Shirt Stacker/Design/Images/Dumping.pdf used on input line 81.
+(pdftex.def)             Requested size: 390.0pt x 354.55617pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
+ [3 </Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/D
+esign/Images/Top View.pdf>] [4 </Users/jacob/Documents/My Stuff/Arduino/garment
+transporter/Shirt Stacker/Design/Images/Cross Section.pdf>] [5 </Users/jacob/Do
+cuments/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Design/Images/Spool.j
+pg>] [6 </Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stack
+er/Design/Images/Pulleys.jpg>] [7 </Users/jacob/Documents/My Stuff/Arduino/garm
+enttransporter/Shirt Stacker/Design/Images/Linear Bearings.jpg>] [8 </Users/jac
+ob/Documents/My Stuff/Arduino/garmenttransporter/Shirt Stacker/Design/Images/Na
+ils.pdf>] [9 </Users/jacob/Documents/My Stuff/Arduino/garmenttransporter/Shirt 
+Stacker/Design/Images/Dumping.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
+
+(./Shirt Stacker.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `"Shirt Stacker".out' has not changed.
-(rerunfilecheck)             Checksum: 2BD3EC2B5FF6232A986DBCB76EFBC99D;212.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
+(rerunfilecheck)             Checksum: 3420FF32760830613C36651C04AC2613;423.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 6218 strings out of 493315
- 89351 string characters out of 6137904
- 173017 words of memory out of 5000000
- 9595 multiletter control sequences out of 15000+600000
- 12265 words of font info for 48 fonts, out of 8000000 for 9000
+ 6267 strings out of 493315
+ 92168 string characters out of 6137904
+ 175350 words of memory out of 5000000
+ 9628 multiletter control sequences out of 15000+600000
+ 12572 words of font info for 49 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,5n,28p,654b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,28p,847b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Shirt Stacker.pdf" (2 pages, 82206 bytes).
+Output written on "Shirt Stacker.pdf" (9 pages, 5017949 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 100 words of extra memory for PDF output out of 10000 (max. 10000000)
 
